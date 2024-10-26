@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.counter_container{
+    background-color: rgb(31, 112, 184);
+    width: 100%;
+    height: 100vh;
+}
